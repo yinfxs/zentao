@@ -1,7 +1,7 @@
 FROM ubuntu:xenial
 MAINTAINER Swire Chen <idoop@msn.cn>
 
-ARG ZENTAO_URL=http://dl.cnezsoft.com/zentao/10.3/ZenTaoPMS.10.3.stable.zbox_64.tar.gz
+ARG ZENTAO_URL=http://dl.cnezsoft.com/zentao/10.4/ZenTaoPMS.10.4.stable.zbox_64.tar.gz
 
 COPY docker-entrypoint /usr/local/bin/docker-entrypoint
 
