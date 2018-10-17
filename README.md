@@ -72,5 +72,5 @@ Then execute the following command:
 ```bash
 docker build -t zentao .
 ```
-        
+
         
